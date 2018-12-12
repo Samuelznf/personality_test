@@ -1,0 +1,181 @@
+<resources>
+    <string name="app_name">Final Project</string>
+
+    <string name="very_extraverted">
+        The test result indicates that you are very
+        outgoing and sociable.You enjoy being with people,
+        participating public gathering,and are always full of energy.
+    </string>
+
+    <string name="some_what_extraverted">
+        The test result indicates that you are more
+        outgoing and sociable than most of people.
+        You sometimes enjoy being with people,
+        participating public gathering, and are full
+        of energy for the most of time.
+    </string>
+    
+    
+    <string name="neutral_extraveted">
+        The test result indicates that you are somehow 
+    outgoing and sociable. Sometimes you enjoy being 
+    with others while sometimes prefer being alone.
+    </string>
+    
+    <string name="some_what_introverted">
+        The test result indicates that you are not
+        outgoing and sociable for most of the time.
+        You may feel more comfortable when working alone.
+    </string>
+
+    <string name="very_introverted">
+        The test result indicates that you may be shy and
+        afraid of express your own ideas and feelings.
+        You may feel more comfortable when working alone
+        and may be uncomfortable to socialize and cooperate with others.
+    </string>
+
+    <string name="very_agree">
+        The test result indicates that you are very temperate,
+        kind, and warm-hearted. You often compromise when
+        having conflict with others and are likely to
+        sympathize others and offer help.
+    </string>
+
+    <string name="some_what_agree">
+        The test result indicates that you are temperate,
+        kind, and warm-hearted to some extent.
+        You sometimes compromise when having conflict
+        with others and are likely to
+        sympathize others and offer help.
+    </string>
+
+    <string name="neutral_agree">
+        The test result indicates that you are somehow
+        kind and warm-hearted. You may sympathize
+        others and compromise according to situational
+        occasion and your emotion at that moment.
+    </string>
+
+    <string name="some_what_disagree">
+        The test result indicates that you are somehow
+        unlikely to accept others’ opinion or make
+        compromise. Sometimes you may be aloof towards
+        others and confident about your idea.
+    </string>
+
+    <string name="very_disagree">
+        The test result indicates that you are unlikely
+        to accept others’ opinion or make compromise.
+        You may be aloof towards others and have the
+        belief that you are always right.
+    </string>
+
+    <string name="very_neu">
+        The test result indicates that you have an
+        unstable emotion. You can easily get angry,
+        upset or depressed. If you try to control
+        your emotion, you will have a mentally peaceful life.
+    </string>
+
+    <string name="some_what_neu">
+        The test result indicates that your emotion is
+        somehow unstable. You may get angry, upset
+        or depressed when facing problem in life. If
+        you try to comfort and manage your negative
+        feelings, you will have a mentally peaceful life.
+    </string>
+
+    <string name="neutral_neu">
+        The test result indicates that your emotion is
+        sometimes stable but otherwise in some situations.
+        Sometime you are able to manage your emotion
+        well while sometimes are not.
+    </string>
+    
+    <string name="some_what_low_neu">
+        The test result indicates that your emotion is
+        stable. Though you may get depressed, angry,
+        or upset because of some troubles in life,
+        you can manage your emotion for most of the time.
+    </string>
+
+    <string name="very_low_neu">
+        The test result indicates that your emotion is 
+        very stable. You may have emotion fluctuation 
+        in life, but you have great capability to 
+        handle your emotion and make use of them.
+    </string>
+    
+    <string name="very_open">
+        The test result indicates that you are very
+        imaginative, curious, and open-minded. You
+        are usually willing to learn new skills,
+        try new activities, and accept new ideas.
+    </string>
+
+    <string name="some_what_open">
+        The test result indicates that you are
+        relatively imaginative, curious, and open-minded.
+        Sometimes you may be willing to learn new skills,
+        try new activities, and accept new ideas.
+    </string>
+
+    <string name="neutral_open">
+        The test result indicates that you are somehow
+        imaginative, curious, and open-minded. Sometimes
+        you may be willing to learn new skills, try new
+        activities, and accept new ideas.
+    </string>
+
+    <string name="some_what_close">
+        The test result indicates that you are somehow
+        conservative. Sometimes you may not be willing
+        to learn new skills, try new activities,
+        or accept new ideas.
+    </string>
+
+    <string name="very_close">
+        The test result indicates that you are not 
+        imaginative, curious, and open-minded. You are 
+        conservative in your life, unwilling to explore 
+        new environment or have new experience. Also, 
+        you may suffer from lacking of imagination 
+        and inspiration.
+    </string>
+    
+    <string name="very_con">
+        The test result indicates you are very conscientious,
+        organized, and responsible. You like to follow
+        orders and schedules, always know what to do.
+    </string>
+
+    <string name="some_what_con">
+        The test result indicates you are relatively 
+        conscientious, organized, and responsible. You 
+        sometimes like to follow orders and schedules, 
+        often know what to do.
+    </string>
+    
+    <string name="neutral_con">
+        The test result indicates you are somehow
+        conscientious, organized, and responsible.
+        Sometimes you like to follow order and fixed
+        schedule while sometimes prefer having free timetable.
+    </string>
+
+    <string name="some_what_non_con">
+        The test result indicates you are not quite
+        conscientious, a little bit disorganized.
+        You do not like to follow orders and schedules,
+        cherish freedom of time management.
+    </string>
+
+    <string name="very_non_con">
+        The test result indicates you are not conscientious
+        and disorganized. You do not like to follow orders
+        and schedules, seldom know what to do. You’d better
+        manage your schedule in order to achieve your goals.
+    </string>
+
+</resources>

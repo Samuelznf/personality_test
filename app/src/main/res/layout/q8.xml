@@ -1,0 +1,167 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.constraint.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".MainActivity">
+
+
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical">
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="250dp"
+            android:orientation="horizontal">
+
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="250dp"
+                android:gravity="center"
+                android:text="I have a soft heart."
+                android:textSize="30dp"
+                android:textColor="#333333"
+                tools:layout_editor_absoluteX="0dp"
+                tools:layout_editor_absoluteY="28dp"
+                />
+
+        </LinearLayout>
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="50dp"
+            android:orientation="horizontal">
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:layout_weight="1"
+                android:id="@+id/agree0"
+                android:onClick="VeryAcc"
+                android:layout_gravity="center"
+                android:background="@drawable/selector_grey_bg"
+                android:text="Very Accurate"
+                android:textSize="35dp"
+                android:textColor="#333333"
+                android:gravity="center"/>
+
+        </LinearLayout>
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="50dp"
+            android:orientation="horizontal">
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:layout_weight="1"
+                android:id="@+id/agree1"
+                android:onClick="ModAcc"
+                android:layout_gravity="center"
+                android:background="@drawable/selector_white_bg"
+                android:text="Moderately Accurate"
+                android:textSize="35dp"
+                android:textColor="#333333"
+                android:gravity="center"/>
+
+        </LinearLayout>
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="50dp"
+            android:orientation="horizontal">
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:layout_weight="1"
+                android:onClick="oneOnClick"
+                android:layout_gravity="center"
+                android:background="@drawable/selector_grey_bg"
+                android:text="Neutral"
+                android:textSize="35dp"
+                android:textColor="#333333"
+                android:gravity="center"/>
+
+        </LinearLayout>
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="50dp"
+            android:orientation="horizontal">
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:layout_weight="1"
+                android:id="@+id/agree2"
+                android:onClick="ModInacc"
+                android:layout_gravity="center"
+                android:background="@drawable/selector_white_bg"
+                android:text="Moderately Inaccurate"
+                android:textSize="35dp"
+                android:textColor="#333333"
+                android:gravity="center"/>
+
+        </LinearLayout>
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="50dp"
+            android:orientation="horizontal">
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:layout_weight="1"
+                android:id="@+id/agree3"
+                android:onClick="VeryInacc"
+                android:layout_gravity="center"
+                android:background="@drawable/selector_grey_bg"
+                android:text="Very Inaccurate"
+                android:textSize="35dp"
+                android:textColor="#333333"
+                android:gravity="center"/>
+
+        </LinearLayout>
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="50dp"
+
+            android:orientation="horizontal">
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:layout_weight="1"
+                android:onClick="goTo7"
+                android:layout_gravity="center"
+                android:background="@drawable/selector_orange"
+                android:text="Previous"
+                android:textColor="#000"
+                android:textSize="35dp"
+                android:gravity="center"/>
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:layout_weight="1"
+                android:onClick="goTo9"
+                android:layout_gravity="center"
+                android:background="@drawable/selector_blue"
+                android:text="Next"
+                android:textColor="#FFFFFF"
+                android:textSize="35dp"
+                android:gravity="center"/>
+
+        </LinearLayout>
+
+
+
+    </LinearLayout>
+
+
+
+
+
+
+    ></android.support.constraint.ConstraintLayout>
